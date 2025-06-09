@@ -1,0 +1,11 @@
+ro_b, delta_t, porosity
+2.55 65 11.5	# all three minerals
+2.53 63 9	# sandstone limestone
+2.6 61 10 	# all three minerals
+2.62 62 14	# dolomite limestone mixture
+2.5 67 12       # all three minerals
+2.5 63 11.5     #100% limestone
+2.5 66 7        #limestone sandstone mixture
+
+To stop the iteration for asking values of parameters, type 0 in 'enter depth' input.
+
